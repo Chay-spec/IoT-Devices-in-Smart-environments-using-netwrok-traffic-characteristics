@@ -1,1 +1,1 @@
-# IoT-Devices-in-Smart-environments-using-netwrok-traffic-characteristics
+# IoT-Devices-in-Smart-environments-using-network-traffic-characteristics
